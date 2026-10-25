@@ -1,6 +1,6 @@
 # Skills
 
-Two simple Claude skills that take a business idea to a working app, with you deciding at every step.
+Two simple Claude skills that take a business idea to a working app prototype, with you deciding at every step.
 
 | Skill | What it does | You get |
 |-------|--------------|---------|
